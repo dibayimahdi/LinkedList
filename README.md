@@ -55,7 +55,4 @@ This project is provided for educational purposes and has no license restriction
 8) Count
 
 
-This project is provided for educational purposes and has no license restrictions.
-
----
 
