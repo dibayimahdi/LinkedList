@@ -23,6 +23,21 @@ This project implements a **custom static memory pool-based linked list** manage
 
 ---
 
+## 🔧 Modernizing Tips (optional)
+
+If you'd like to run this code with a modern C++ compiler:
+- Replace `#include<iostream.h>` with `#include <iostream>` and add `using namespace std;`
+- Remove or replace `conio.h` functions (`clrscr()`, `gotoxy()`, `getch()`)
+- Change `void main()` to `int main()` and return 0 at the end
+
+---
+
+## 📄 License
+
+This project is provided for educational purposes and has no license restrictions.
+
+---
+
 ## 🚀 How to Use
 
 ### Run the Program:
@@ -39,16 +54,6 @@ This project implements a **custom static memory pool-based linked list** manage
 7) Print reverse
 8) Count
 
-## 🔧 Modernizing Tips (optional)
-
-If you'd like to run this code with a modern C++ compiler:
-- Replace `#include<iostream.h>` with `#include <iostream>` and add `using namespace std;`
-- Remove or replace `conio.h` functions (`clrscr()`, `gotoxy()`, `getch()`)
-- Change `void main()` to `int main()` and return 0 at the end
-
----
-
-## 📄 License
 
 This project is provided for educational purposes and has no license restrictions.
 
